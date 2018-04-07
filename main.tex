@@ -1,0 +1,29 @@
+\documentclass[b5j,twoside,openany]{jreport}
+\usepackage{enumerate}
+\makeatletter
+\usepackage{amsmath}
+\usepackage{amsfonts}
+%\usepackage{showkeys}
+\usepackage{ascmac}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{multienum}
+\usepackage{bm}
+\usepackage{multirow}
+
+\input title/title.tex
+\input setting/fomulanumber.tex
+\input setting/header.tex
+\input setting/newtheory.tex
+\begin{document}
+\maketitle
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\input{source/chapter1}
+
+\bibliographystyle{jssst}
+\bibliography{myref}
+\end{document}
