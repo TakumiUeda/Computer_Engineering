@@ -14,3 +14,6 @@
 \contentsline {section}{\numberline {5.1}UDP}{8}
 \contentsline {section}{\numberline {5.2}TCP/IP}{8}
 \contentsline {chapter}{\numberline {第6章}計算機の構成要素}{9}
+\contentsline {part}{第I部\hspace {1em}プログラムとアルゴリズム}{10}
+\contentsline {section}{\numberline {6.1}プログラム}{11}
+\contentsline {section}{\numberline {6.2}アルゴリズム}{11}

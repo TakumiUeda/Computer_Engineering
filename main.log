@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.12.21)  8 APR 2018 07:56
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.12.21)  13 APR 2018 01:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -351,7 +351,12 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 3.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+)
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 17.
+)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
@@ -368,10 +373,6 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ]
 第 3 章
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 26.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 26.
 [6
 
 ]
@@ -384,24 +385,50 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
 
 ]
 第 6 章
-) (./main.bbl [9
+[9
 
-]) 
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 70.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 70.
+ [10
+
+]) (./main.bbl
+
+LaTeX Font Warning: Font shape `JT1/mc/m/sl' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 1.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/sl' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 1.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 15.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11]) 
 AED: lastpage setting LastPage
-[10
+[12
 
 ]
 \tf@thm=\write4
 \openout4 = `main.thm'.
 
- (./main.aux) ) 
-Here is how much of TeX's memory you used:
- 2881 strings out of 493653
- 36710 string characters out of 6148873
- 102919 words of memory out of 5000000
- 6410 multiletter control sequences out of 15000+600000
- 15731 words of font info for 63 fonts, out of 8000000 for 9000
- 929 hyphenation exceptions out of 8191
- 27i,13n,43p,221b,273s stack positions out of 5000i,500n,10000p,200000b,80000s
+ (./main.aux)
 
-Output written on main.dvi (10 pages, 8816 bytes).
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2891 strings out of 493653
+ 36856 string characters out of 6148873
+ 101919 words of memory out of 5000000
+ 6419 multiletter control sequences out of 15000+600000
+ 16854 words of font info for 67 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 31i,13n,43p,221b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.dvi (12 pages, 10592 bytes).
