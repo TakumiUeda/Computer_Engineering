@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \contentsline {section}{\numberline {0.1}文字コード}{4}
 \contentsline {part}{第I部\hspace {1em}ネットワークと機器}{5}
 \contentsline {chapter}{\numberline {第1章}ネットワーク}{6}
@@ -29,3 +30,5 @@
 \contentsline {chapter}{\numberline {第6章}論理回路}{15}
 \contentsline {section}{\numberline {6.1}n進法}{15}
 \contentsline {section}{\numberline {6.2}ブール代数}{15}
+=======
+>>>>>>> 2bb04af20984a057b8a361bd8f7a84736b02aa9d
